@@ -64,45 +64,43 @@ ul li:hover{
 
 .lisbon{
 	background-color: #2C95C7;
-	width: 50%;
 }
 .paris{
 	background-color: #00D1CA;
-	width: 25%;
 }
 .belgrade{
 	background-color: #A05995;
-	width: 25%;
 }
 .moskow{
 	background-color: #CA334D;
-	width: 25%;
 }
 .telaviv{
 	background-color: #EB5953;
-	width: 25%;
 }
 .cair{
 	background-color: #FFCE74;
-	width: 25%;
 }
 .newyork{
 	background-color: #8AD39C;
-	width: 25%;
 }
 .newdelhi{
 	background-color: #5E9B97;
-	width: 25%;
 }
 .sanfrancisco{
 	background-color: #D65096;
-	width: 50%;
 }
 .tokyo{
 	background-color: #00A06A;
-	width: 25%;
 }
 .sydney{
 	background-color: #6B5F95;
+}
+.width-25{
+	width: 25%;
+}
+.width-50{
+	width: 50%;
+}
+.width-100{
 	width: 100%;
 }
